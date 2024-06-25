@@ -1,0 +1,43 @@
+.francois-one-regular {
+    font-family: "Francois One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+#titulo{
+    font-family: "Francois One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.imgUno{
+    height: 70px;
+    
+}
+
+#cartaedit:hover{
+    background-color: rgb(253, 200, 231);
+}
+
+.footerr{
+    background-color: rgb(255, 216, 229);
+    text-align: center;
+   
+}
+
+
+
+@media(min-width: 1000px){
+
+    
+}
+
+@media(max-width: 999px){
+    .carouselsection{
+        height: 40px;
+    }
+    
+}
+
+
